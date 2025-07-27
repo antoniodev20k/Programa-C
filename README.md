@@ -1,2 +1,2 @@
 # Programa-C
-Projetos básicos de C++ 
+Projetos && Script básicos em C++ 
